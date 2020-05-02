@@ -23,13 +23,12 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Kaiserslautern, Germany"
   date_start = "2019-05-16"
-  date_end = ""
+  date_end = "2019-07-15"
   description = """
   Responsibilities include:
   
-  
-  * Implementation
   * Optimization
+  * Implemention
   * Debugging
   """
 
@@ -38,8 +37,8 @@ date_format = "Jan 2006"
   company = "STMicroelectronics"
   company_url = ""
   location = "Greater Noida"
-  date_start = "2019-12-1"
+  date_start = "2019-12-01"
   date_end = "2020-01-10"
-  description = """
 
-  +++
+
++++
