@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Kaiserslautern, Germany"
   date_start = "2019-05-16"
   date_end = ""
-  description = ""
+  description = """
   Responsibilities include:
   
   
@@ -40,6 +40,4 @@ date_format = "Jan 2006"
   location = "Greater Noida"
   date_start = "2019-12-1"
   date_end = "2020-01-10"
-  description = ""  ""
-
-+++
+  description = """
