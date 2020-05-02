@@ -15,28 +15,25 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
   name = "Python"
-  description = "90%"
   
 [[feature]]
   
-  name = "c++"
-  description = "100%"  
+  name = "C++"  
   
 [[feature]]
   name = "VHDL"
-  description = "10%"
 
 [[feature]]
   name = "Tensorflow"
-  description = "90%"
 
 [[feature]]
-  icon = "android"
-  icon_pack = "fab"
   name = "Android Studio"
-  description = "90%"
+
+[[feature]]
+  name = "Bash"
+
+
+
 
 +++
