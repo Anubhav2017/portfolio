@@ -57,3 +57,10 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
+Hi everyone. Welcome to my homepage. I am a third year UG student pursuing dual degree in department of Electrical Engineering with MTech in Microelectronics with minors in Computer Science.
+
+Technology has fascinated me in the ways it is changing our lives everyday and motivates me to dive deeper into its secrets and make an impact. Today, we find t hard to imagine our life without computers and embedded devices around us. My dream is to help humanity overcome the various challenges faced by computer hardware industry. I love tinkering with robots, computers and platforms such as Arduino and Raspberry Pi and searching for ways to make our life easier and thrilling.
+
+In my leisure time, I like reading novels, socializing with friends and family, playing chess, FPS and RPG games, listening to music and watching movies. I also play badminton and volleyball.
+
+Life gives everyone its share of success and failiures, happiness and sorrow. We must learn to embrace life and bring out the best from the present. Failiure and hardships give us opportunity to become stronger so that we can enjoy our tomorrow in even better ways.   
