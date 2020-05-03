@@ -63,4 +63,3 @@ Technology has fascinated me in the ways it is changing our lives everyday and m
 
 In my leisure time, I like reading novels, socializing with friends and family, playing chess, FPS and RPG games, listening to music and watching movies. I also play badminton and volleyball.
 
-Life gives everyone its share of success and failiures, happiness and sorrow. We must learn to embrace life and bring out the best from the present. Failiure and hardships give us opportunity to become stronger so that we can enjoy our tomorrow in even better ways.   
