@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   title = "Computational Thinking Using Python"
   url = ""
   date_start = "2020-04-10"
-  date_end = 
   description = ""
 
 +++
