@@ -25,6 +25,9 @@ subtitle = ""
   name = "VHDL"
 
 [[feature]]
+  name = "Verilog"
+
+[[feature]]
   name = "Tensorflow"
 
 [[feature]]
