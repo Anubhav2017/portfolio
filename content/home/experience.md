@@ -17,10 +17,32 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Digital Design Intern"
+  company = "Texas Instruments India"
+  location = "Bangalore, India"
+  date_start = "2020-04-29"
+  description = """
+  
+  Worked on link loss feature in Ethernet PHY family of Texas Instruments
+  * Digital Design
+  * Verification
+  * Simulation
+  """
+
+
+
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "STMicroelectronics"
+  location = "Greater Noida"
+  date_start = "2019-12-01"
+  date_end = "2020-01-10"
+
 [[experience]]
   title = "Software Engineering Intern"
   company = "Fraunhofer ITWM"
-  company_url = ""
   location = "Kaiserslautern, Germany"
   date_start = "2019-05-16"
   date_end = "2019-07-15"
@@ -30,29 +52,6 @@ date_format = "Jan 2006"
   * Optimization
   * Implemention
   * Debugging
-  """
-
-[[experience]]
-  title = "Software Engineering Intern"
-  company = "STMicroelectronics"
-  company_url = ""
-  location = "Greater Noida"
-  date_start = "2019-12-01"
-  date_end = "2020-01-10"
-
-[[experience]]
-  title = "Intern"
-  company = "Texas Instruments India"
-  company_url = ""
-  location = "Bangalore, India"
-  date_start = "2020-04-29"
-  date_end = "ongoing"
-  description = """
-  
-  Worked on link loss feature in Ethernet PHY family of Texas Instruments
-  * Digital Design
-  * Verification
-  * Simulation
   """
 
 
